@@ -27,6 +27,7 @@ brew install --cask trojanx # https://github.com/JimLee1996/TrojanX 科学上网
 brew install --cask netnewswire # https://netnewswire.com/ rss阅读器
 brew install --cask notion
 brew install --cask qqmusic
+brew install --cask spectacle
 
 # brew install docker-compose
 # brew install --cask docker
